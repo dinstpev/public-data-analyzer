@@ -5,7 +5,8 @@
 ## ***This project was implemented as part of my master's thesis in the program "Master in Information Systems (PLS)" at the Hellenic Open University (HOU).***
 
 ---
-Design of a system for analysis, prediction and classification of extracted public data using machine learning algorithms.
+
+#### **Design of a system for analysis, prediction and classification of extracted public data using machine learning algorithms.**
 
 **Abstract**
 
