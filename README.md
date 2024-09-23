@@ -26,4 +26,4 @@ The focus is on how all the aforementioned variables are combined through approp
 
 ---
 
-### Following this master’s thesis, there is an ambition to create an online application/dashboard in the near future that will aggregate a wide range of public data and allow all users, regardless of their knowledge background, to manage these data and draw any social or political conclusions.
+### Following this master’s thesis, there is an ambition to create an online application/dashboard in the near future that will aggregate a wide range of public data and allow all users, regardless of their knowledge background, to manage these data and draw any social or political conclusions. In this direction, I would be delighted to collaborate with more experienced developers/analysts to bring this non-profit application to life.
