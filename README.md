@@ -22,6 +22,7 @@ All stages and processes of extraction, integration, and analysis are described 
 Finally, analyses are conducted and evaliuated using statistical methods and machine learning algorithms such as Linear Regression, Random Forest, Gradient Boosting, and Logistic Regression for Hypothesis Testing and Classification Analysis. Additionally, machine learning algorithms such as k-Means and Agglomerative Clustering are implemented for the Clustering process.
 
 The focus is on how all the aforementioned variables are combined through appropriate checks, so that their values can be used to train statistical and machine learning models with the aim of either extracting knowledge or using them for predictions and strategic planning.
+
 ---
 
 ### Following this master’s thesis, there is an ambition to create an online application/dashboard in the near future that will aggregate a wide range of public data and allow all users, regardless of their knowledge background, to manage these data and draw any social or political conclusions.
