@@ -1,12 +1,12 @@
 # public-data-analyzer
 
-"Public data that remain unused by the majority cannot truly be considered public."
+> "Public data that remain unused by the majority cannot truly be considered public."
 
-This project was implemented as part of my master's thesis in the program "Master in Information Systems (PLS)" at the Hellenic Open University (HOU).
+## ***This project was implemented as part of my master's thesis in the program "Master in Information Systems (PLS)" at the Hellenic Open University (HOU).***
 
 Design of a system for analysis, prediction and classification of extracted public data using machine learning algorithms.
 
-Abstract
+**Abstract**
 
 The problem posed within the context of increasing the volume of public data is that of maximizing its effective utilization, with the aim of extracting knowledge through statistical methods and machine learning techniques.
 To this purpose, a system for extracting and analyzing public data was developed.
